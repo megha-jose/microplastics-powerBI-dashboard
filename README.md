@@ -61,5 +61,5 @@ A detailed case study document is included in this repository:
 ### 4️⃣ Summary 
 ![Summary](microplasticDashboard/summary.png)
 ## 📬 Contact
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yourusername) for questions or feedback!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/meghatheresejose) for questions or feedback!
 
